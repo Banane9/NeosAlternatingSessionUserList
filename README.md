@@ -4,6 +4,8 @@ Alternating Session User-List
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that adds alternating colors to the rows in the Session tab's Users and Permissions lists.  
 The colors can be customized in the mod settings.
 
+This mod has been deprecated in favor of [Session Tab Overhaul](https://github.com/Banane9/NeosSessionTabOverhaul), which features alternating rows and more.
+
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
 2. Place [AlternatingSessionUserList.dll](https://github.com/Banane9/NeosAlternatingSessionUserList/releases/latest/download/AlternatingSessionUserList.dll) into your `nml_mods` folder. This folder should be at `C:\Program Files (x86)\Steam\steamapps\common\NeosVR\nml_mods` for a default install. You can create it if it's missing, or if you launch the game once with NeosModLoader installed it will create the folder for you.
